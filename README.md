@@ -49,7 +49,7 @@ Prescripto is a feature-rich Full Stack Doctor Appointment Booking System design
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/prescripto.git
+   git clone https://github.com/nishi719/Prescripto.git
    ```
 
 2. **Navigate to the project directory:**
@@ -97,13 +97,6 @@ Prescripto is a feature-rich Full Stack Doctor Appointment Booking System design
 
 ---
 
-## 🌐 Project Demo
-
-![Prescripto Screenshot](https://via.placeholder.com/800x400?text=Project+Demo)
-
-_Link to live demo or video walkthrough._
-
----
 
 ## 📂 Folder Structure
 
@@ -135,7 +128,7 @@ prescripto/
 
 ## 🙌 Acknowledgements
 
-- Inspired by [YouTube Tutorial]([https://youtu.be/eRTTlS0zaW8?feature=shared]) .
+- Inspired by [Great Stack Dev](https://youtu.be/eRTTlS0zaW8?feature=shared ).
 - Special thanks to the open-source community for tools and libraries.
 
 ---
